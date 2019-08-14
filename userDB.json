@@ -4,19 +4,22 @@
         "name":"gloria",
         "username":"glo3030",
         "password": 3030,
-        "email":"goodness@you.com"
+        "email":"goodness@you.com",
+        "rentedMovies":[]
         },
         {
         "name":"ifedili",
         "username":"ife3030",
         "password": 3030,
-        "email":"goodness@you.com"
+        "email":"goodness@you.com",
+        "rentedMovies":[]
         },
         {
         "name":"john", 
         "username":"joh3030",
         "password": 3030,
-        "email":"goodness@you.com"
+        "email":"goodness@you.com",
+        "rentedMovies":[]
         
         }
         ,
@@ -24,8 +27,8 @@
         "name":"john", 
         "username":"",
         "password": "",
-        "email":"goodness@you.com"
-        
+        "email":"goodness@you.com",
+        "rentedMovies":[]
         }
     ]
 
